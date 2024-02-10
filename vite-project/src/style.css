@@ -1,0 +1,18 @@
+:root {
+    --grisClaro: #f1f2f5;
+    --gris: #364954;
+    --gris2: #717171;
+    --gris3: #a8a8a8;
+    --grisOscuro: #2b3b45;
+    --azul: #2e85aa;
+    --amarillo: #ff8e00;
+    --blanco: #fff;
+    --negro: #292929;
+}
+
+body{
+    background-color: var(--grisOscuro);
+}
+html {
+    font-size: 20px;
+}
